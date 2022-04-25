@@ -1,9 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Hello,%20World!&fontSize=30&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Creative,%20Innovative,%20and Motivative&fontSize=30&animation=twinkling)
 
 
 <img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='260'>
-
-# Creative, Innovative, and Motivative 
 
 ### Seohyun (Claire) Yoon
 #### Software Developer
