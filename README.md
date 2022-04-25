@@ -3,12 +3,11 @@
 
 <img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='260'>
 
+### Creative, Innovative, and Motivative 
+
 ### Seohyun (Claire) Yoon
 #### Software Developer
 
-Hi, All 👋  
-I started coding for implementing my numerous ideas to the real life. 
-My goal is study until I get the skills to create what I imagine.
 
   <br />
   
