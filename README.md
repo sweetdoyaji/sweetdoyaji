@@ -28,14 +28,14 @@
   <br />
 
 ### 💜 Hit
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoneydoyaji&count_bg=%23D48FEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsweetdoyaji&count_bg=%23D48FEB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
   <br />
   
 ### :octocat: GitHub Stats
 
-<img src = "https://github-readme-stats.vercel.app/api?username=honeydoyaji&show_icons=true&theme=Gradient&count_private=true&line_height=20">  
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=honeydoyaji&theme=Gradient&langs_count=4&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api?username=sweetdoyaji&show_icons=true&theme=Gradient&count_private=true&line_height=20">  
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sweetdoyaji&theme=Gradient&langs_count=4&layout=compact">
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&color=FAEBEF&height=50)
    
