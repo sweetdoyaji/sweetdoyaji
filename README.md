@@ -1,10 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Be%20Creative&fontSize=30&animation=twinkling)
 
-
-<img align='right' src='https://media.giphy.com/media/eIadKo4rGHXgl1Ub4g/giphy.gif' width='260'>
-
 ### Seohyun (Claire) Yoon
-#### Software Developer
+#### Full-stack Web Developer
 
 
   <br />
