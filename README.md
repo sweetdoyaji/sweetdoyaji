@@ -1,9 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Hi%20I'm%20Claire!&textBg=false&animation=twinkling&fontAlign=50)
 
-### Customer Engineer <= Dev Project Manger <= Full-stack Web Developer
+#### Full-stack Web Developer ➡️ Dev Project Manger ➡️ ✨ Customer Engineer ✨
 ---
- <br />
   
 ## ₊✩‧₊˚౨ৎ˚ About ME ₊✩‧₊ ᡣ𐭩…
 - 📍 Currently in **Seoul, South Korea**
@@ -20,12 +19,10 @@
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp;
-
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"/></a> &nbsp;
 
 ### What I love
-
 <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff"/></a> &nbsp;
 <img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white"/></a> &nbsp;
