@@ -29,9 +29,7 @@
 <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff"/></a> &nbsp;
 <img src="https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white"/></a> &nbsp;
-<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/></a> &nbsp;
-
-and STREAMLIT!
+<img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/></a> &nbsp; and STREAMLIT!
 
 ### What I can do 
 <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"/></a> &nbsp;
