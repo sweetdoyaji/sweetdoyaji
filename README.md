@@ -1,5 +1,5 @@
 
-  [![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Hi%20I'm%20Claire!&textBg=false&animation=twinkling&fontAlign=50)]
+![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Hi%20I'm%20Claire!&textBg=false&animation=twinkling&fontAlign=50)
 
 ### Customer Engineer <= Dev Project Manger <= Full-stack Web Developer
 ---
