@@ -1,12 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FAEBEF&fontColor=6A7BA2&height=150&section=header&text=Be%20Creative&fontSize=30&animation=twinkling)
-
-## Claire Y
+[![header](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Hi%20I'm%20Claire!&textBg=false&animation=twinkling&fontAlign=50)
 #### Customer Engineer <= Dev Project Manger <= Full-stack Web Developer 
-
-
-  <br />
+---
+ <br />
   
-### 🐽 About ME 
+### ₊✩‧₊˚౨ৎ˚ About ME ₊✩‧₊ ᡣ𐭩…
+---
 - 📍 Currently in **Seoul, South Korea**
 - ✈︎ Lived in 🇺🇲🇨🇦🇦🇺 Traveled 🇯🇵🇹🇼🇹🇭🇻🇳🇵🇭🇮🇩🇨🇳🇺🇲🇨🇦🇬🇺🇸🇬
 - 🎓 Graduated **Purdue University West Lafayette '23** - Go Boilers!
@@ -17,6 +15,7 @@
   <br />
 
 ## 💻 Tech Stacks
+---
 ### What I do
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"/></a> &nbsp;
@@ -33,7 +32,6 @@
 <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/></a> &nbsp;
 
 and STREAMLIT!
-
 
 ### What I can do 
 <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white"/></a> &nbsp;
