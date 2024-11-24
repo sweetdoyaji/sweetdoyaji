@@ -3,6 +3,8 @@
 
 #### Full-stack Web Developer ➡️ Dev Project Manger ➡️ ✨ Customer Engineer ✨
 ---
+ 
+  <br />
   
 ## ₊✩‧₊˚౨ৎ˚ About ME ₊✩‧₊ ᡣ𐭩…
 - 📍 Currently in **Seoul, South Korea**
