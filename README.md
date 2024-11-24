@@ -55,5 +55,3 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=sweetdoyaji&show_icons=true&theme=Gradient&count_private=true&line_height=20">  
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sweetdoyaji&theme=Gradient&langs_count=4&layout=compact">
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&color=FAEBEF&height=50)
-   
