@@ -3,8 +3,7 @@
 ---
  <br />
   
-### ₊✩‧₊˚౨ৎ˚ About ME ₊✩‧₊ ᡣ𐭩…
----
+## ₊✩‧₊˚౨ৎ˚ About ME ₊✩‧₊ ᡣ𐭩…
 - 📍 Currently in **Seoul, South Korea**
 - ✈︎ Lived in 🇺🇲🇨🇦🇦🇺 Traveled 🇯🇵🇹🇼🇹🇭🇻🇳🇵🇭🇮🇩🇨🇳🇺🇲🇨🇦🇬🇺🇸🇬
 - 🎓 Graduated **Purdue University West Lafayette '23** - Go Boilers!
@@ -15,7 +14,6 @@
   <br />
 
 ## 💻 Tech Stacks
----
 ### What I do
 <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"/></a> &nbsp;
 <img src="https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff"/></a> &nbsp;
